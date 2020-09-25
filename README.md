@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is kamiyaa.
+
+ - Currently studying Computer Science at the University of Toronto
+ - Recently started making educational and insightful YouTube videos on tech
+
+![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamiyaa)
+
+Feel free to look around!
