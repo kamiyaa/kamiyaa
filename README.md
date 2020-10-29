@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is kamiyaa.
+My name is Jeff.
 
  - Currently studying Computer Science at the University of Toronto
  - Recently started making educational and insightful YouTube videos on tech
