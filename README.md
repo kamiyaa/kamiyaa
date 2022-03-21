@@ -2,7 +2,7 @@
 
 Hi there, my name is Jeff.
 
-- 💼 I'm currently working as a Software Engineer at Circle 🟢
+- 💼 I'm currently working as a Software Engineer at [Alice.co](https://www.alice.co/) 🟣
 - 📹 I have a YouTube channel where I post videos on tech and various other things I find interesting
 - 🛠️ I have a few side projects that I am currently working on
 
