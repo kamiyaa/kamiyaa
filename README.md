@@ -9,7 +9,7 @@ Hi there, my name is Jeff.
 - [YouTube](https://www.youtube.com/c/kamiyaa)
 - [LinkedIn](https://www.linkedin.com/in/jiayii-zhao/)
 - [Instagram](https://www.instagram.com/jeff.no.zhao/)
-- Discord: `aayimak`
+- Discord: `kamiyaa91`
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kamiyaa&show_icons=true&hide=stars&hide_border=true&bg_color=232326&icon_color=ebcb8b&title_color=a0c5e7&text_color=a0c5e7)
 
